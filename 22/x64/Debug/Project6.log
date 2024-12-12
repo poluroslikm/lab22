@@ -1,0 +1,6 @@
+﻿  FileName.c
+C:\Users\student\Desktop\22\FileName.c(88,11): warning C4113: "double (__cdecl *)(double,double,double)" отличается в списках параметров от "func"
+C:\Users\student\Desktop\22\FileName.c(63,1): warning C4113: "double (__cdecl *)(double)" отличается в списках параметров от "double (__cdecl *)(double,double,double)"
+C:\Users\student\Desktop\22\FileName.c(56): warning C4716: tabl: должна возвращать значение
+C:\Users\student\Desktop\22\FileName.c(90): warning C4716: lab22task1: должна возвращать значение
+  Project6.vcxproj -> C:\Users\student\Desktop\22\x64\Debug\Project6.exe
